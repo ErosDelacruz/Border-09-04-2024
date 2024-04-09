@@ -3,5 +3,25 @@ body {
      color: white;
      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
      font-weight: 1,6;
-     
+
+}
+
+.line {
+     display: flex;
+     justify-content: space-between;
+     padding: 0 17px;
+     list-style-type: none;
+     margin: 16px 15px;
+}
+
+a {
+     text-decoration: none;
+     color: white;
+     cursor: cell;
+}
+
+.title {
+     border: 2px solid red;
+     border-radius: 10px ;
+     margin: 100px 20px;
 }
